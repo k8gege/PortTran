@@ -1,6 +1,5 @@
 PortTran by k8gege<br>
-.NET版端口转发工具<br>
-支持任意权限下转发<br> 
+.NET版端口转发工具 支持任意权限下转发<br> 
 
 0x001 VPS监听
 PortTranS.exe 8000 338
