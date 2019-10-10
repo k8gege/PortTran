@@ -11,3 +11,4 @@ PortTranC.exe 192.168.85.169 3389 192.168.85.142 8000<br>
 0x003 VPS连接3389<br>
 mstsc /console /v:127.0.0.1:338<br>
 <img src=https://github.com/k8gege/PortTran/blob/master/img/3389.PNG></img><br>
+
